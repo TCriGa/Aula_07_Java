@@ -10,4 +10,4 @@ imprima a mensagem:
 
 3. Escreva um programa que peça o saldo atual para um usuário e
 imprima a mensagem:
-"O saldo atual da sua conta é de: <valorDigitado"
+"O saldo atual da sua conta é de: <valorDigitado".
