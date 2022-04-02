@@ -1,18 +1,13 @@
-## Getting Started
+## Exercícios sobre entrada e saída de dados
+1. Escreva um programa que peça o nome do usuário e sua idade e
+imprima para o resultado a mensagem "Olá <nomeDigitado> sua
+idade é <idadeDigitada>"
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+2. Escreva um programa que peça o endereço para um usuário e
+imprima a mensagem:
+"O pacote para o seu produto será enviado para
+<enderecoDigitado>"
 
-## Folder Structure
-
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+3. Escreva um programa que peça o saldo atual para um usuário e
+imprima a mensagem:
+"O saldo atual da sua conta é de: <valorDigitado"
